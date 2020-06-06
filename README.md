@@ -17,6 +17,6 @@
 </br>
 <p>Foi realizado o deploy da aplicação na Aws utilizando o serviço de implantação Elastic Beanstalk, clique no link para ser redirecionado</p>
 
-<a href="http://codeblog-env.eba-cbbzwahp.us-east-2.elasticbeanstalk.com/decompositores/posts">Clique Aqui</>
+<a href="http://codeblog-env.eba-cbbzwahp.us-east-2.elasticbeanstalk.com/decompositores/posts">Clique Aqui</a>
 
 
