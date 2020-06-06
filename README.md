@@ -1,6 +1,6 @@
 <h1> Projeto Codeblog <h1>
 
-<p>Este projeto tem como objetivo o cadastro de posts de um determinado tema, a autenticação é obrigatória para realizar o cadastro</p>
+<h2>Este projeto tem como objetivo o cadastro de posts de um determinado tema, a autenticação é obrigatória para realizar o cadastro</h2>
 </br>
 <h2> Thymeleaf </h2>
 </br>
